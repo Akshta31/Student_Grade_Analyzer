@@ -39,7 +39,6 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
 - numpy
 - matplotlib
 - seaborn
-
 ---
 
 ## 💡 How to Run
