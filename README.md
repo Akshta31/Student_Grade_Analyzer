@@ -31,7 +31,6 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
   - Correlation Heatmap and more (using Seaborn)
 
 ---
-
 ## 🛠️ Technologies Used
 
 - Python (Jupyter Notebook / VS Code)
