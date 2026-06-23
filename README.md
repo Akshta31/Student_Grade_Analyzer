@@ -1,4 +1,4 @@
-# 🎯 Student Performance Analysis
+# Student Performance Analysis
 A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** to explore and visualize student marks, grades, ranks, and performance trends.
 
 ---
