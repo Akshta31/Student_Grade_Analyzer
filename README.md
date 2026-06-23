@@ -3,7 +3,7 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 - `student_analysis_project.ipynb` – Jupyter Notebook with full data cleaning, analysis, and visualizations  
 - `student_scores.csv` – Input dataset containing raw student marks  
 - `student_performance_summary.csv` – Output CSV with total, average, grade, rank, and pass/fail status  
