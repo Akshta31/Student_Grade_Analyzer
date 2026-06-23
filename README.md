@@ -12,7 +12,7 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Cleaned and processed a real-world style dataset
 - 📐 Calculated:
