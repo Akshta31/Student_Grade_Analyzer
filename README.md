@@ -15,7 +15,7 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
 ## Features
 
 - Cleaned and processed a real-world style dataset
-- 📐 Calculated:
+- Calculated:
   - Total Marks
   - Average Score
   - Pass/Fail Status
