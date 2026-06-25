@@ -21,6 +21,7 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
   - Pass/Fail Status
   - Grade (A+ to F)
   - Student Rank
+  
 - Visualizations:
   - Histogram of Average Marks
   - Grade Distribution Bar Chart
