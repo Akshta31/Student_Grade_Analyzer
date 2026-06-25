@@ -40,7 +40,7 @@ A full data analysis project built using **Pandas**, **NumPy**, **Matplotlib**, 
 - seaborn
 ---
 
-## 💡 How to Run
+## How to Run
 
 1. Clone this repository or download the files.
 2. Install required libraries:
